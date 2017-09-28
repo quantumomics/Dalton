@@ -1,0 +1,46 @@
+{
+  "name": "dalton",
+  "version": "0.0.1",
+  "description": "Dalton®: An instrument to know the weight from Quantumømics, Inc.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quantumomics/Dalton.git"
+  },
+  "keywords": [
+    "Dalton",
+    "Molecules",
+    "Sequencing",
+    "Method",
+    "Instrument"
+  ],
+  "author": {
+    "name": "quantumømics, Inc.",
+    "email": "quantumomics@gmail.com",
+    "url": "http://research.sequomics.com/"
+  },
+  "maintainers": [
+    {
+      "name": "Prabhat Kumar",
+      "email": "prabhat.omics@gmail.com",
+      "url": "http://prabhatkumar.org/"
+    },
+    {
+      "name": "Sequømics, Inc.",
+      "email": "sequomics@gmail.com",
+      "url": "http://sequomics.com/"
+    }
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/quantumomics/Dalton/issues"
+  },
+  "homepage": "https://github.com/quantumomics/Dalton#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
