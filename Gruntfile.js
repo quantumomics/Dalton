@@ -114,7 +114,7 @@ module.exports = function(grunt) {
   /// \---------------- coffee.js => coffee{}
   grunt.util._.extend(config, loadConfig('./tasks/options/'));
   
-  // Project configuration for -//G®//- Build.
+  // Project configuration for -//Dalton®//- Build.
   grunt.initConfig(config);
   
   // 2. load-grunt-tasks ——> $ npm install load-grunt-tasks --save-dev
