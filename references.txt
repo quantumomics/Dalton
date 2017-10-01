@@ -1,0 +1,9 @@
+References and Recommended Reading
+----------------------------------
+Chargaff, E. Chemical specificity of nucleic acids and mechanism of their enzymatic degradation. Experientia 6, 201–209 (1950).
+---. Preface to a grammar of biology. Science 171, 637–642 (1971).
+Dahm, R. Discovering DNA: Friedrich Miescher and the early years of nucleic acid research. Human Genetics 122, 565–581 (2008).
+Levene, P. A. The structure of yeast nucleic acid. IV. Ammonia hydrolysis. Journal of Biological Chemistry 40, 415–424 (1919).
+Rich, A., &. Zhang, S. Z-DNA: The long road to biological function. Nature Reviews Genetics 4, 566–572 (2003).
+Watson, J. D., & Crick, F. H. C. A structure for deoxyribose nucleic acid. Nature 171, 737–738 (1953).
+Wolf, G. Friedrich Miescher: The man who discovered DNA. Chemical Heritage 21, 10-11, 37–41 (2003).
