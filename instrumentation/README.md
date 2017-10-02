@@ -12,4 +12,4 @@ RCB or Reaction Circuit Board, for the <b>D<sub><sup>alton</sup></sub><sup>®</s
 Signome is an electronics device that is reading the input signals from the <b>ε</b>, and counting, assembling, doing the noise reduction, and writing the sequence outputs into the <b>KSN.1</b> file format.
 
 ## Allome
-Allome is an electronics device, the master QPU (Quantum Processing Unit — the invented MPRT microelectronics, named <b>μ</b> design methodology.) fabricated with approximately 1.9 trillion transistors and speed up to 9.9 GHz.
+Allome is an electronics device, the master QPU (Quantum Processing Unit — the invented MPRT microelectronics, named <b>μ</b> design methodology.) fabricated with approximately 1.9 trillion transistors and speed up to 4.9 GHz, with the memory of 9 gigabyte.
